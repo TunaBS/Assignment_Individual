@@ -1,1 +1,5 @@
 Squashing commits condenses multiple changes into a unit, reducing unnecessary commit history.
+
+soft: moves head one step down, indicates not commited yet.
+mix: moves head one step down, indicates not staged yet, staging area gets replaced by previous commit.
+hard: moves head one step down, indicates working directory and staging area clean.
