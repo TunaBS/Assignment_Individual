@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-trying to create rebasing conflict, this is main branch file
-=======
-trying to create rebasing conflict, this is experimental-branch branch file
->>>>>>> 39e744a (trying to create rebase conflict this is experimental-branch)
